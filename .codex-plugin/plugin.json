@@ -1,0 +1,33 @@
+{
+  "name": "good-manners",
+  "version": "0.1.1",
+  "description": "Shared development conventions with task-specific guidance for Web, React, Rust, C#, and databases.",
+  "author": {
+    "name": "alexey-potory"
+  },
+  "homepage": "https://github.com/alexey-potory/good-manners",
+  "repository": "https://github.com/alexey-potory/good-manners",
+  "keywords": [
+    "development",
+    "code-review",
+    "web",
+    "react",
+    "rust",
+    "csharp",
+    "postgresql"
+  ],
+  "skills": "./skills/",
+  "interface": {
+    "displayName": "Good Manners",
+    "shortDescription": "Shared coding conventions with task-specific modules",
+    "longDescription": "Apply common coding, review, and verification conventions while loading only the modules relevant to the task. Includes selective setup of external skill dependencies.",
+    "developerName": "alexey-potory",
+    "category": "Developer Tools",
+    "capabilities": [],
+    "defaultPrompt": [
+      "Use Good Manners to apply the relevant coding conventions to this task."
+    ],
+    "composerIcon": "./skills/good-manners/assets/good-manners.png",
+    "logo": "./skills/good-manners/assets/good-manners.png"
+  }
+}

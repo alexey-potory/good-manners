@@ -2,7 +2,7 @@
 name: good-manners
 description: Apply shared development conventions when implementing, reviewing, or refactoring project code, tests, database schemas, or developer tooling, or setting up this skill's dependencies for a selected stack. Load only the task-relevant modules.
 metadata:
-  version: "0.1.0"
+  version: "0.1.1"
   short-description: "Shared coding conventions with task-specific modules"
 ---
 
