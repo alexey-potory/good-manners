@@ -1,0 +1,6 @@
+Use case: logo-brand.
+Asset type: square app-style icon for a developer skill named Good Manners, about clean, considerate programming conventions.
+Primary request: one polished, minimal emblem that combines a tidy bow tie with two bold code angle brackets. Make the bow-tie silhouette unmistakable, using geometric bracket-shaped wings and a small central knot, as one coherent symbol.
+Style: crisp flat graphic, strong simple silhouette, balanced negative space, restrained high contrast, no tiny decorative details. Center the emblem inside a softly rounded square tile so it stays legible on both light and dark UI surfaces. Generous safe padding; readable at 24px. Front view, no perspective, no photorealism, no mockup.
+Background: genuinely transparent outside the rounded square tile; clean alpha edges, no checkerboard painted into the image.
+Text: none. No letters, words, watermark, signature, extra objects or surrounding UI. Deliver a single finished icon, not a sheet of variations.

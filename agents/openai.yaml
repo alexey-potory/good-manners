@@ -1,0 +1,6 @@
+interface:
+  display_name: "Good Manners"
+  short_description: "Shared coding conventions with task-specific modules"
+  icon_small: "./assets/good-manners.png"
+  icon_large: "./assets/good-manners.png"
+  default_prompt: "Use $good-manners to apply the relevant coding conventions to this task."
